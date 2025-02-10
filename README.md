@@ -14,16 +14,3 @@ Responsive Design: Optimized for all screen sizes, ensuring usability on mobile,
 Tech Stack
 Frontend: React.js
 Styling: Tailwind CSS
-
-Usage
-Paste your content in the input area and save it.
-Edit the content whenever required.
-View a list of all saved entries.
-Delete content when no longer needed.
-Copy content directly to the clipboard with a single click.
-
-Future Enhancements
-Add user authentication to save content for specific users.
-Implement cloud storage for persistent data management.
-Introduce formatting options for text (e.g., bold, italic).
-Enable dark mode for better user experience.
