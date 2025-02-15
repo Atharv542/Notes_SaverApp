@@ -1,6 +1,5 @@
 
 
-Paste Web App
 The Paste Web App is a simple and intuitive platform for users to manage their text content. With this app, users can paste, edit, view, delete, and copy their content effortlessly. The app is designed for productivity and offers a clean, user-friendly interface.
 
 Features
